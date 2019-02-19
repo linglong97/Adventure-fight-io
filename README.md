@@ -1,6 +1,7 @@
 # Example Phaser.io Top down shooter game
 
-Attempts at the game for CSC309
+Attempts at the game for CSC309. Concept: Battle Royale Top down shooter.
+Made using PhaserJS, npm to install scripts, webpack to display on the browser, and babel to transpile ES6.
 
 ### Requirements
 
