@@ -1,10 +1,10 @@
-# Phaser 3 Webpack Project Template
+# Example Phaser.io Top down shooter game
 
-A Phaser 3 Project Template
+Attempts at the game for CSC309
 
 ### Requirements
 
-We need [Node.js](https://nodejs.org) to install and run scripts.
+[Node.js](https://nodejs.org) to install and run scripts.
 
 ## Install and run
 
