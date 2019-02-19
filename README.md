@@ -4,7 +4,7 @@ Attempts at the game for CSC309
 
 ### Requirements
 
-[Node.js](https://nodejs.org) to install and run scripts.
+[Node.js](https://nodejs.org) to install and run scripts. Forgot to .gitignore node modules in the fork so for some reason the node modules are here still?
 
 ## Install and run
 
